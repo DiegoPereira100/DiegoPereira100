@@ -1,4 +1,4 @@
-<h3 align="center">Diego</h3>
+<h3 align="center">Pretty Diego</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
