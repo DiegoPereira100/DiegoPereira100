@@ -15,13 +15,3 @@
 
 
 
-<p>
-
-Estudando/trabalhando na **Clear Cloud**<br/>
-
-Eu sou desenvolvedor **Frontend and Backend**.
-
-
-</p>
-<hr>
-
